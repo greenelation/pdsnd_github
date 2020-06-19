@@ -5,7 +5,7 @@
 BikeShare
 
 ### Description
-Describe what your project is about and what it does
+Filters Data by Specific measuring units.
 
 ### Files used
 bikeshare.py
