@@ -21,7 +21,7 @@ Washington_bikeshare['End Time'] = pd.to_datetime(Washington_bikeshare['End Time
 
 
 
-# Declaring Initial ad empty variables
+# Declaring Initial empty variables
 FilteredCity = "";
 Option = "";
 DfObj = pd.DataFrame()
